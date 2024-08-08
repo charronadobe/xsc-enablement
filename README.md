@@ -1,4 +1,5 @@
 # Your Project's Title...
+XSC Enablement for EDS
 For XSC Enablement started 2024-08-08
 https://adobe-my.sharepoint.com/personal/lkelly_adobe_com/_layouts/15/stream.aspx?id=%2Fpersonal%2Flkelly%5Fadobe%5Fcom%2FDocuments%2FRecordings%2FXSC%20Enablement%20Kickoff%20%2D%20Web%20Development%20Technical%20Workshop%2D20240808%5F154202%2DMeeting%20Recording%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E8ba26c1c%2D72b7%2D4e63%2D8d5f%2Dfa6517435637
 
